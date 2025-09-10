@@ -6,7 +6,7 @@ Certified Scrum Master | Agile Coach | 10+ Years in E-commerce & Healthcare
 ## 🚀 About Me  
 - 🌟 Scrum Master with 6+ years of Agile facilitation experience  
 - 💡 Expertise in servant leadership, backlog management, stakeholder alignment  
-- 📊 Skilled in Jira, Confluence, Power BI, QuickSight  
+- 📊 Skilled in Jira, Confluence, AWS QuickSight, S3, Athena, CloudSearch 
 
 ---
 
